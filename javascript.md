@@ -1,2 +1,3 @@
 ## [1.连等赋值问题](https://github.com/lizhengcdst/Qustions/issues/2 "连等赋值问题")
 
+## [2.DOM绑定事件问题](https://github.com/lizhengcdst/Qustions/issues/5 "DOM绑定事件问题")

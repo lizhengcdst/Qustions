@@ -10,5 +10,5 @@
 
 ## [6.SPA && SEO](https://github.com/lizhengcdst/Qustions/issues/9 "SPA && SEO")
 
-## [7.js十进制转二进制](https://github.com/lizhengcdst/Qustions/issues/10 "js十进制转二进制")
+## [7.js十进制转二进制](https://github.com/lizhengcdst/Qustions/issues/9 "js十进制转二进制")
 
